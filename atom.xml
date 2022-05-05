@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://heavyraiin.github.io</id>
     <title>heavyraiin</title>
-    <updated>2022-05-05T12:38:27.352Z</updated>
+    <updated>2022-05-05T12:39:38.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://heavyraiin.github.io"/>
     <link rel="self" href="https://heavyraiin.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://heavyraiin.github.io/images/avatar.png</logo>
     <icon>https://heavyraiin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, heavyraiin</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>https://heavyraiin.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="https://heavyraiin.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2022-05-05T12:39:12.000Z</updated>
+        <content type="html"><![CDATA[<p>这个正文是用来测试的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://heavyraiin.github.io/post/hello-gridea/</id>
